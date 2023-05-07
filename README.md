@@ -10,3 +10,5 @@ respectively.
 respectively.
 + When user presses ‘space’. Toggle drawing mode of the 3-legged between drawing a wireframe object or
 a solid one.
+![image](https://user-images.githubusercontent.com/101996959/236684070-145b9522-78d9-4a22-abdb-2391be1a39ce.png)
+
